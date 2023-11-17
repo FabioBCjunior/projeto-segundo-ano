@@ -1,7 +1,10 @@
 body {
    background: #CCCCCC
 }
-      
+
+h1 {
+   text-algin: center
+
 p {
    text-align: center;
 }
