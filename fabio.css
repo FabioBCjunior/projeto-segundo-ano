@@ -4,9 +4,14 @@ body {
 
 h1 {
    text-algin: center
+}
 
 p {
    text-align: center;
+}
+
+#missao {
+   font-size: 20px
 }
 
 em strong {
